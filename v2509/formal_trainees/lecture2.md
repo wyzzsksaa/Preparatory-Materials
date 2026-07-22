@@ -133,7 +133,7 @@
 
 **这是“一生一芯”的必须完成部分如下**：
 
-![image\.png](static/image23.png)
+![image\.png](/v2509/formal_trainees/static/image23.png)
 
 虽然一生一芯的讲义划定了学习的范围，但想要技术很强的话，我们建议都可以试着去学习。
 
@@ -150,7 +150,7 @@
 > ## 数字设计
 > HDLBITS的最终目标是状态机（FSM）全部完成，如果你对自己的verilog感到自信或学有余力，努力提前去完成他们吧！
 
- ![image\.png](static/image22.png)
+ ![image\.png](/v2509/formal_trainees/static/image22.png)
 
 
 ## 一生一芯课程PA
@@ -161,7 +161,7 @@ PA是我们后续学习中非常重要的一部分内容，目前我们已经把
 >https://ysyx\.oscc\.cc/docs/ics\-pa/PA0\.html
 >当你发现如下提醒时，阅读该讲义:https://ysyx\.oscc\.cc/docs/2407/e/3\.html获取属于一生一芯的代码框架
 
-![image\.png](static/image21.png)
+![image\.png](/v2509/formal_trainees/static/image21.png)
 
 ## 一生一芯E4阶段讲义
 

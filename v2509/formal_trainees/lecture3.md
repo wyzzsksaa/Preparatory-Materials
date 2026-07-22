@@ -15,7 +15,7 @@
 >
 > 本周你需要完成[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)中的如下任务，这里如果遇到卡住很久的题可以先跳过，同时有限状态机部分题目有很多重复，大家对这里有自己的方法和理解即可，**可以跳过重复性较高的题！！！**提交你的截图即可。（在这里推荐一个浏览器插件：**沉浸式翻译**，如果看不懂的话，就用这个插件配合学习吧！）
 
- ![image\.png](static/image32.png)
+ ![image\.png](/v2509/formal_trainees/static/image32.png)
 
 > [!TIP]
 > 我们培养的是硬件思维，需要头脑中先有电路再下手写代码，这也是为什么我们需要先学习使用Logisim搭建数字电路，再来学习数字设计，虽然我们后面不再使用Logisim进行处理器设计，但Logisim的使用经验应该已经帮助你建立了"电路思维"：数字电路设计只做两件事，"实例化"和"连线"。你接下来使用HDL来设计数字电路时，头脑中也需要将HDL代码和Logisim的使用经验建立关联：你只不过是换了一种方式来设计电路，但本质上还是在进行"实例化"和"连线"的工作，因此你应该能根据你编写的代码想象到电路的逻辑结构，**要记住Verilog的本质是硬件描述语言而不是传统的编程语言。**
@@ -142,7 +142,7 @@ https://ysyx\.oscc\.cc/docs/ics\-pa/PA0\.html
 
 当你发现如下提醒时，阅读该讲义:https://ysyx\.oscc\.cc/docs/2407/e/3\.html获取属于一生一芯的代码框架
 
-![image\.png](static/image21.png)
+![image\.png](/v2509/formal_trainees/static/image21.png)
 
 ## 一生一芯E4阶段讲义
 

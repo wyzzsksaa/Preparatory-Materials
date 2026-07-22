@@ -101,7 +101,7 @@
 
 **报名之前请先联系你的负责人**。
 
-![image\.png](static/image.png)
+![image\.png](/v2509/final_trans/static/image.png)
 
 
 
